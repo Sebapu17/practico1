@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZbtH7kxuKYRw3nDiYLWett6UjdjY6tXsldnce4cOhpq0gKfy5EUzUCKdWS2o275R7SGQUIPyk/kXl+Kda2Qog==",
+  "success": true,
+  "projectFilePath": "/Users/sebastianpuppo/Projects/p1_ej2/p1_ej2/p1_ej2.csproj",
+  "expectedPackageFiles": [
+    "/Users/sebastianpuppo/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sebastianpuppo/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/sebastianpuppo/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

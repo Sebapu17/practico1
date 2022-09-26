@@ -1,0 +1,14 @@
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.csproj.AssemblyReference.cache
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.AssemblyInfoInputs.cache
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.AssemblyInfo.cs
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.csproj.CoreCompileInputs.cache
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/bin/Debug/netcoreapp3.1/p1_ej3
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/bin/Debug/netcoreapp3.1/p1_ej3.deps.json
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/bin/Debug/netcoreapp3.1/p1_ej3.runtimeconfig.json
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/bin/Debug/netcoreapp3.1/p1_ej3.runtimeconfig.dev.json
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/bin/Debug/netcoreapp3.1/p1_ej3.dll
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/bin/Debug/netcoreapp3.1/p1_ej3.pdb
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.dll
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.pdb
+/Users/sebastianpuppo/Projects/p1_ej3/p1_ej3/obj/Debug/netcoreapp3.1/p1_ej3.genruntimeconfig.cache
