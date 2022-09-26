@@ -1,0 +1,14 @@
+/Users/programacion/Projects/objetosAuto/objetosAuto/bin/Debug/netcoreapp3.1/objetosAuto
+/Users/programacion/Projects/objetosAuto/objetosAuto/bin/Debug/netcoreapp3.1/objetosAuto.deps.json
+/Users/programacion/Projects/objetosAuto/objetosAuto/bin/Debug/netcoreapp3.1/objetosAuto.runtimeconfig.json
+/Users/programacion/Projects/objetosAuto/objetosAuto/bin/Debug/netcoreapp3.1/objetosAuto.runtimeconfig.dev.json
+/Users/programacion/Projects/objetosAuto/objetosAuto/bin/Debug/netcoreapp3.1/objetosAuto.dll
+/Users/programacion/Projects/objetosAuto/objetosAuto/bin/Debug/netcoreapp3.1/objetosAuto.pdb
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.csproj.AssemblyReference.cache
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.AssemblyInfoInputs.cache
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.AssemblyInfo.cs
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.csproj.CoreCompileInputs.cache
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.dll
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.pdb
+/Users/programacion/Projects/objetosAuto/objetosAuto/obj/Debug/netcoreapp3.1/objetosAuto.genruntimeconfig.cache
